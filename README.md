@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer.
 ---------------------
 
-* 🌍  I'm based in Toronto, ON, Canada
+* 🌍  I'm based in Surat, Gujarat, India
 * 🖥️  See my portfolio at [mokshmodi.dev](http://mokshmodi.dev)
 * ✉️  You can contact me at [mokshmodi96@gmail.com](mailto:mokshmodi96@gmail.com)
 * 🧠  I'm learning DevOps, CI/CD Pipelines and Rust
